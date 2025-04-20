@@ -1,5 +1,5 @@
 streamlit==1.44.1
 mediapipe==0.10.21
-opencv-python-headless==4.5.5.64
+opencv-python-headless==4.8.1.78  # Compatible with Python 3.12
+numpy>=1.26.0  # Required for Python 3.12
 pyttsx3==2.98
-numpy
